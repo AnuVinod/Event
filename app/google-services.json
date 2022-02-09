@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484354429432",
+    "project_id": "eventer-10e31",
+    "storage_bucket": "eventer-10e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484354429432:android:c3c12ee794c2f4b2e0060d",
+        "android_client_info": {
+          "package_name": "com.hazaltoglobhal.eventer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484354429432-9ov3enf8kvm0lh1timsm5a6p3ndrv4qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazaltoglobhal.eventer",
+            "certificate_hash": "c1451110f92688b23960ac7c8ae97e4002ce23a6"
+          }
+        },
+        {
+          "client_id": "484354429432-qt8e4cj6hd0hf6f2i2gpa8h7rhe2jrm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCv2rO1MVC0J2ikrDd0ZcZDUbYGr4FZNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484354429432-qt8e4cj6hd0hf6f2i2gpa8h7rhe2jrm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
